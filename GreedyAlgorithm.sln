@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BulbOnOffProblem", "BulbOnO
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimumNumberOfJumps", "MinimumNumberOfJumps\MinimumNumberOfJumps.csproj", "{6EEE048E-E136-4777-814D-8038DF0BB853}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindHighestProduct", "FindHighestProduct\FindHighestProduct.csproj", "{C809408A-D298-4D53-9977-72DCF923CCB4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindHighestProduct", "FindHighestProduct\FindHighestProduct.csproj", "{C809408A-D298-4D53-9977-72DCF923CCB4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximalDisjointIntervals", "MaximalDisjointIntervals\MaximalDisjointIntervals.csproj", "{F318AEFE-EACA-42D3-8AB8-BC4B912B40FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaximalDisjointIntervals", "MaximalDisjointIntervals\MaximalDisjointIntervals.csproj", "{F318AEFE-EACA-42D3-8AB8-BC4B912B40FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargestSwapPermutation", "LargestSwapPermutation\LargestSwapPermutation.csproj", "{944D2E76-FBA7-4324-9C22-16281F586F9A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{F318AEFE-EACA-42D3-8AB8-BC4B912B40FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F318AEFE-EACA-42D3-8AB8-BC4B912B40FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F318AEFE-EACA-42D3-8AB8-BC4B912B40FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{944D2E76-FBA7-4324-9C22-16281F586F9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{944D2E76-FBA7-4324-9C22-16281F586F9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{944D2E76-FBA7-4324-9C22-16281F586F9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{944D2E76-FBA7-4324-9C22-16281F586F9A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
