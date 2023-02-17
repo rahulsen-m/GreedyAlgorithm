@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LargestSwapPermutation", "L
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxMeetingRoom", "MaxMeetingRoom\MaxMeetingRoom.csproj", "{7BADE35C-7468-40C4-9397-D076A6EA1BE5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistributeCandy", "DistributeCandy\DistributeCandy.csproj", "{5FF0046E-CE69-4165-8EA9-FB4FD5F5BDCA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{7BADE35C-7468-40C4-9397-D076A6EA1BE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7BADE35C-7468-40C4-9397-D076A6EA1BE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7BADE35C-7468-40C4-9397-D076A6EA1BE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FF0046E-CE69-4165-8EA9-FB4FD5F5BDCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FF0046E-CE69-4165-8EA9-FB4FD5F5BDCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FF0046E-CE69-4165-8EA9-FB4FD5F5BDCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FF0046E-CE69-4165-8EA9-FB4FD5F5BDCA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
